@@ -2,4 +2,4 @@
 Vue.JS application to determine the weather
 A simple guide how to start application: <br>
 <strong>npm i <br>
-vite preview </strong>
+npm run dev</strong>
